@@ -7,6 +7,9 @@
 - 通过路由预览不同组件（如 Demo、EnhancedDemo）
 - 支持自定义端口号（已配置为 3000）
 
+## 功能Demo
+- https://sangzs.github.io/react-drag-resize-comp/
+
 ## 安装与使用
 
 1. 克隆项目：
