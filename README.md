@@ -1,4 +1,5 @@
-# React Test
+# React-Drag-Resize-Comp
+
 
 本项目是一个基于 React 的前端演示项目，包含多个可通过路由切换的组件示例。
 
