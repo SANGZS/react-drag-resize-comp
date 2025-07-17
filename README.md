@@ -12,7 +12,7 @@
 1. 克隆项目：
    ```bash
    git clone <你的仓库地址>
-   cd react-test
+   cd react-drag-resize-comp
    ```
 2. 安装依赖：
    ```bash
